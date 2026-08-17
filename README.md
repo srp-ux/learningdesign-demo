@@ -1,4 +1,4 @@
-![Banner](laptops.png)
+<img src="laptops.png"
 
 Praktische onboarding-training voor new hires binnen klantcontact
 
