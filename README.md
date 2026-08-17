@@ -1,4 +1,4 @@
-banner.jpg
+![Profession
 
 Praktische onboarding-training voor new hires binnen klantcontact
 
