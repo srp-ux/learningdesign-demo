@@ -1,2 +1,15 @@
-# learningdesign-demo
-Practising Learning Design
+# Omgaan met weerstand
+
+Welkom bij deze training.
+
+## Doelgroep
+
+Nieuwe medewerkers van een klantenservice.
+
+## Leerdoel
+
+Na deze training kun je:
+
+- Weerstand herkennen
+- Professioneel reageren op weerstand
+- Het gesprek constructief houden
