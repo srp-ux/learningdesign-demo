@@ -4,6 +4,7 @@
 <h2>Voor nieuwe medewerkers binnen klantcontact</h2>
 </p>
 Praktische onboarding-training gericht op het herkennen en professioneel hanteren van weerstand tijdens klantgesprekken
+
 ---
 
 ## Waarom deze training?
