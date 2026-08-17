@@ -16,3 +16,4 @@ Na deze training kun je:
 
 - [Module 1 - Wat is weerstand?](Module-1.md)
 - [Module 2 - Reageren op weerstand?](Module-2.md)
+- [Module 3 - Omgaan met een boze klant](Module-3.md)
