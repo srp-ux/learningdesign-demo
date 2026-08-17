@@ -2,6 +2,7 @@
 
 <h2 style="color:#4CAF50;">
 ## Voor nieuwe medewerkers binnen klantcontact
+  
 </h2>
 Praktische onboarding-training gericht op het herkennen en professioneel hanteren van weerstand tijdens klantgesprekken.
 
