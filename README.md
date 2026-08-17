@@ -1,4 +1,4 @@
-![Profession
+![Banner](laptops.png)
 
 Praktische onboarding-training voor new hires binnen klantcontact
 
