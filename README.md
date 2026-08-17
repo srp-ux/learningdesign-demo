@@ -17,4 +17,4 @@ Na deze training kun je:
 ## Modules
 
 - [Module 1 - Wat is weerstand?](Module-1.md)
-- Module-2.md
+- [Module 2 - reageren op weerstand?](Module-2.md)
