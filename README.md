@@ -13,3 +13,8 @@ Na deze training kun je:
 - Weerstand herkennen
 - Professioneel reageren op weerstand
 - Het gesprek constructief houden
+
+## Modules
+
+- [Module 1 - Wat is weerstand?](Module-1.md)
+- Module-2.md
