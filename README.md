@@ -1,5 +1,3 @@
-# Omgaan met weerstand
-
 Welkom bij deze training.
 
 ## Doelgroep
