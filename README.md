@@ -1,6 +1,8 @@
 <img src="hero-banner.png">
 
-Praktische onboarding-training voor new hires binnen klantcontact
+<h2 style="color:#4CAF50;">
+# Praktische onboarding-training voor new hires binnen klantcontact
+</h2>
 
 ---
 
