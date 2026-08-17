@@ -1,7 +1,7 @@
 <img src="hero-banner.png">
 
 <p style="color:#4CAF50; font-size:28px; font-weight:bold;">
-Voor nieuwe medewerkers binnen klantcontact
+<h2>Voor nieuwe medewerkers binnen klantcontact</h2>
 </p>
 Praktische onboarding-training gericht op het herkennen en professioneel hanteren van weerstand tijdens klantgesprekken
 ---
